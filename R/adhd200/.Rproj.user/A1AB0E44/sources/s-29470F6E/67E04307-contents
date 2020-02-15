@@ -1,0 +1,7 @@
+for (i in 1:96) {
+  write(toJSON(ADHD[[i]]),paste('adhd_',i,'.json',sep=''))
+}
+
+for (i in 1:91) {
+  write(toJSON(TDC[[i]]),paste('tdc_',i,'.json',sep=''))
+}
