@@ -14,7 +14,7 @@
     "edit-distance": "^1.0.2",
     "install": "^0.13.0",
     "mathjs": "^6.1.0",
-    "npm": "^6.11.1",
+    "npm": "^6.13.4",
     "papaparse": "^5.0.2",
     "tslib": "^1"
   },
